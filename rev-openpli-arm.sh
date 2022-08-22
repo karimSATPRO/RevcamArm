@@ -3,7 +3,7 @@ TEMPATH='/tmp'
 cd $TEMPATH
 set -e
 echo "############ DOWNLOADING FILES #############"
-wget -q "https://bit.ly/3dGfSHn"
+wget -q "https://github.com/karimSATPRO/RevcamArm/raw/main/rev-openpli-arm.tgz"
 echo "############ OPEN PLI ARM ##################"
 echo "############ INSTALLATION STARTED ##########"
 
